@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+}
+.content{
+    height: 100vh;
+}
+.btn{
+    font-size: 5rem;
+    padding: 10px;
+    /* filter: grayscale(); */
+    transition: .4s ease-in-out;
+}
